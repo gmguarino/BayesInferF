@@ -1,1 +1,11 @@
 Images/
+
+
+*.so
+
+.ipynb_checkpoints/
+
+linear_data.*
+test.*
+
+run
